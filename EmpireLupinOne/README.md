@@ -1,3 +1,6 @@
+
+![immagine](https://github.com/user-attachments/assets/5d9ccccf-104d-46a5-8600-7e90a1a94fa6)
+
 # Empire: LupinOne - Writeup
 
 ## Informazioni sulla Macchina
@@ -15,4 +18,5 @@ Questo writeup non è un classico report tecnico, ma un racconto di come ho affr
 Non troverete solo comandi e output, ma un'esperienza immersiva che ripercorre il processo di enumerazione, exploit e privilege escalation, con uno stile che spero renda la lettura più coinvolgente e piacevole.
 
 Buona lettura! 🕵🏼‍♂️
+
 
